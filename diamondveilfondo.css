@@ -1,12 +1,12 @@
 :root {
-    --color-bg1: #6c00a2; /* Color de fondo 1 en HEX */
-    --color-bg2: #001152; /* Color de fondo 2 en HEX */
-    --color-bg3: #001252; /* Color de fondo 2 en HEX */
-    --color1: #1271ff; /* Color 1 en HEX */
-    --color2: #8b31ec; /* Color 2 en HEX */
-    --color3: #5d0fbf; /* Color 3 en HEX */
-    --color4: #292694; /* Color 4 en HEX */
-    --color5: #9ca6f7; /* Color 5 en HEX */
+    --color-bg1: #1a2335;
+    --color-bg2: #016f7f;
+    --color-bg3: #040814;
+    --color1: #70e8fd;
+    --color2: #4b949b;
+    --color3: #1952cb;
+    --color4: #554ec5;
+    --color5: #996dc0;
     --color-interactive: #8c64ff; /* Color interactivo en HEX */
     --circle-size: 80%;
     --blending: hard-light;
@@ -20,7 +20,7 @@
     z-index: -1; /* Asegura que esté por encima de todo */
     pointer-events: none; /* Para que no bloquee interacciones */
 
-    background-image: url('https://imgur.com/mamd0Y0.png');
+    background-image: url('https://imgur.com/-.png');
     background-repeat: repeat; /* Repite la imagen */
     background-size: 200px 200px; /* Ajusta el tamaño de repetición */
     background-position: 0 0; /* Asegura que empiece desde la esquina superior izquierda */
