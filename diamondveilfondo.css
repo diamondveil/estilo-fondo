@@ -23,7 +23,7 @@ html, body {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: 9999; /* Asegura que esté por encima de todo */
+    z-index: 1; /* Asegura que esté por encima de todo */
     pointer-events: none; /* Para que no bloquee interacciones */
 
     background-image: url('https://imgur.com/mamd0Y0.png');
